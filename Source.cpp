@@ -1,3 +1,14 @@
+/*
+This my suffix tree implementation done for Algorithms-2 course 
+(homeworks 2-3 and 2-4).
+
+I tried not to use brain too much and code as close to Maxim Babenko in his
+lectures as possible.
+
+Still mistaken quitee a lot and needed to test all about =(
+*/
+
+
 #include <string>
 #include <vector>
 #include <map>
