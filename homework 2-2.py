@@ -3,6 +3,8 @@
 Created on Fri Mar 11 17:12:08 2016
 
 @author: mbochk
+
+See pdf report "py_homework_2_2.pdf" for info about the task and the programm.
 """
 import argparse
 import copy
