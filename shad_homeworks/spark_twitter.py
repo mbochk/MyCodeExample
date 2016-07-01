@@ -11,7 +11,7 @@ from tempfile import NamedTemporaryFile
 from fileinput import input
 from glob import glob
 
-from pyspark import SparkContext
+from pyspark import SparkContext 
 
 
 # Wrappers
